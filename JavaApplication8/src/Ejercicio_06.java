@@ -17,3 +17,10 @@ public class Ejercicio_06 {
         }
     }
 }
+/**
+ * Ingrese una letra
+E
+Ingrese una letra
+K
+La letra 'K' coincide con la primera letra del nombre 'Kimberly'
+ */
